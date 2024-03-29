@@ -164,3 +164,4 @@ Scripts/
 pyvenv.cfg
 share
 share/*
+*.jpg
